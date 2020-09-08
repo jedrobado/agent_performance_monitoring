@@ -1,6 +1,6 @@
 # agent_performance_monitoring
 Senior Life Services Agent Performance Monitoring
 
-Monitors agent performance by uploading there scores(a csv file) in the system
+Monitors the daily, weekly, monthly and yearly calls and call duration(minutes) and  agent performance by uploading there Activity Summary Report(a csv file) in the system
 
 MDBootstrap, PHP AJAX, MySQL, ChartsJS
