@@ -1,0 +1,45 @@
+html{
+	background-color:rgba(150,104,232,1);
+}
+body,section,.bg{
+	width: 100%;
+	height: 100vh;
+}
+.bg{
+	background-image: url('../../img/login_img/bg.jpg'); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	background-position: center center;
+}
+.apply-gradient {
+	background: rgba(33,107,86,0.52) !important;
+	height: 100%;
+}
+.intro-card{
+	background-color: rgba(255,255,255,0)!important;
+	color: white;
+	box-shadow: 0px !important;
+	-webkit-box-shadow: 0px !important;
+}
+.login-card{
+	background-image: url('../../img/login_img/login_bg.jpg'); 
+	height: 100%;
+	box-shadow: 0 0 9px black;
+}
+.apply-gradient-login-card{
+	background: rgba(0,0,0,.6);
+}
+.aurora-gif{
+	width: 30%;
+	border: 4px solid white;
+	box-shadow: 0 0 11px 7px black;
+}
+.logo-png{
+	background-color: rgba(17,20,27,1);
+	width: 12%;
+	border: 4px solid white;
+	box-shadow: 0 0 11px 7px black;
+	margin-left: -1em;
+	margin-bottom: -3em;
+	padding: 1%;
+}
